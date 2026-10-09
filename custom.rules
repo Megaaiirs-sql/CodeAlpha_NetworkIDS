@@ -1,0 +1,1 @@
+alert icmp any any -> any any (msg:"CUSTOM Ping (ICMP Echo Request) Detected"; itype:8; classtype:misc-activity; sid:1000001; rev:1;)

@@ -1,0 +1,420 @@
+10/07/2026-20:43:39.410288  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/07/2026-20:48:39.411757  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-14:49:26.277149  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-14:54:26.277433  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-14:59:26.340306  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-15:04:26.340872  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-15:09:26.346135  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-15:14:26.350027  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-15:19:26.350672  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-15:24:26.355067  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-15:29:26.355248  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-15:54:31.459775  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-15:55:54.253487  [**] [1:2210058:2] SURICATA STREAM suspected RST injection [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 34.107.243.93:443 -> 10.0.0.2:45666
+10/08/2026-17:29:42.959462  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-17:34:42.959821  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-17:39:42.994354  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-17:44:42.994998  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-17:49:42.997117  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-17:54:42.998448  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-17:59:43.000338  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-18:04:43.000676  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-18:09:43.007695  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-18:14:43.010260  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-18:19:43.013550  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-18:24:43.020244  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-18:29:43.020406  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-18:34:43.022832  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-18:39:43.028980  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-18:44:43.035848  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-18:49:43.036668  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-18:54:43.037798  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-18:59:43.042910  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-19:04:43.045655  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-19:09:43.046273  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-19:14:43.046835  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-19:34:43.056067  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-19:44:43.057336  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-19:49:43.058418  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-19:54:43.059702  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-19:59:43.059958  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-20:04:43.060792  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-20:09:43.063277  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-20:14:43.065202  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-20:19:43.067148  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-20:24:43.068137  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-20:29:43.069210  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-20:34:43.069864  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-20:39:43.071342  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-20:44:43.073450  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-20:49:43.074379  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-20:54:43.076043  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-20:59:43.077007  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-21:04:43.077477  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/08/2026-21:09:43.077865  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/09/2026-16:04:49.278551  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/09/2026-16:06:43.404679  [**] [1:2220006:1] SURICATA SMTP no server welcome message [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 45.33.32.156:25 -> 10.0.0.2:57788
+10/09/2026-16:07:41.173356  [**] [1:2034718:4] ET INFO RMI Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:39274 -> 45.33.32.156:445
+10/09/2026-16:07:47.888945  [**] [1:2034718:4] ET INFO RMI Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:53946 -> 45.33.32.156:25
+10/09/2026-16:07:56.994119  [**] [1:2013409:5] ET INFO Outbound MSSQL Connection to Non-Standard Port - Likely Malware [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:51864 -> 45.33.32.156:445
+10/09/2026-16:08:01.996988  [**] [1:2013409:5] ET INFO Outbound MSSQL Connection to Non-Standard Port - Likely Malware [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:51864 -> 45.33.32.156:445
+10/09/2026-16:08:03.641597  [**] [1:2013409:5] ET INFO Outbound MSSQL Connection to Non-Standard Port - Likely Malware [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:47704 -> 45.33.32.156:25
+10/09/2026-16:08:07.530434  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:39352 -> 45.33.32.156:445
+10/09/2026-16:08:08.641945  [**] [1:2013409:5] ET INFO Outbound MSSQL Connection to Non-Standard Port - Likely Malware [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:47704 -> 45.33.32.156:25
+10/09/2026-16:08:12.535836  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:39352 -> 45.33.32.156:445
+10/09/2026-16:08:14.147115  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:54386 -> 45.33.32.156:25
+10/09/2026-16:08:19.152327  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:54386 -> 45.33.32.156:25
+10/09/2026-16:08:19.668089  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 10.0.0.2:61304 -> 45.33.32.156:22
+10/09/2026-16:08:20.016431  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:08:20.688572  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:08:21.361537  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:08:22.035380  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:08:23.991634  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 10.0.0.2:61558 -> 45.33.32.156:22
+10/09/2026-16:08:24.546937  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:08:25.210096  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:08:25.873823  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:08:26.538462  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:08:28.341551  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 10.0.0.2:47390 -> 45.33.32.156:22
+10/09/2026-16:08:28.829472  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:33358 -> 45.33.32.156:1049
+10/09/2026-16:08:32.869729  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:45280 -> 45.33.32.156:80
+10/09/2026-16:08:33.512594  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:45294 -> 45.33.32.156:80
+10/09/2026-16:08:34.759899  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56688 -> 45.33.32.156:80
+10/09/2026-16:08:36.109314  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56700 -> 45.33.32.156:80
+10/09/2026-16:08:36.255216  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56706 -> 45.33.32.156:80
+10/09/2026-16:08:36.673874  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56722 -> 45.33.32.156:80
+10/09/2026-16:08:37.652395  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56744 -> 45.33.32.156:80
+10/09/2026-16:08:37.650373  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56732 -> 45.33.32.156:80
+10/09/2026-16:08:39.039258  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56748 -> 45.33.32.156:80
+10/09/2026-16:08:39.663565  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56750 -> 45.33.32.156:80
+10/09/2026-16:08:40.897903  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56754 -> 45.33.32.156:80
+10/09/2026-16:08:43.996754  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:49462 -> 45.33.32.156:80
+10/09/2026-16:08:44.565658  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:49468 -> 45.33.32.156:80
+10/09/2026-16:08:45.164204  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:49472 -> 45.33.32.156:80
+10/09/2026-16:08:45.806348  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:49486 -> 45.33.32.156:80
+10/09/2026-16:08:46.279942  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:49488 -> 45.33.32.156:80
+10/09/2026-16:08:46.431008  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:49498 -> 45.33.32.156:80
+10/09/2026-16:08:46.502227  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:49514 -> 45.33.32.156:80
+10/09/2026-16:08:46.908721  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:49522 -> 45.33.32.156:80
+10/09/2026-16:08:46.908721  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:49522 -> 45.33.32.156:80
+10/09/2026-16:08:47.138191  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:49538 -> 45.33.32.156:80
+10/09/2026-16:08:47.822673  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:49554 -> 45.33.32.156:80
+10/09/2026-16:08:48.426238  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:49562 -> 45.33.32.156:80
+10/09/2026-16:08:49.050378  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:49564 -> 45.33.32.156:80
+10/09/2026-16:08:49.120969  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 10.0.0.2:33186 -> 45.33.32.156:22
+10/09/2026-16:08:53.766471  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:40076 -> 45.33.32.156:1050
+10/09/2026-16:08:54.543053  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37514 -> 45.33.32.156:80
+10/09/2026-16:08:59.949869  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:53048 -> 45.33.32.156:445
+10/09/2026-16:09:05.019892  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:57344 -> 45.33.32.156:445
+10/09/2026-16:09:06.081017  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55552 -> 45.33.32.156:8000
+10/09/2026-16:09:07.109109  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:50048 -> 45.33.32.156:443
+10/09/2026-16:09:07.109109  [**] [1:2013926:11] ET INFO HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:50048 -> 45.33.32.156:443
+10/09/2026-16:09:07.169012  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:50056 -> 45.33.32.156:443
+10/09/2026-16:09:14.561931  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47800 -> 45.33.32.156:8000
+10/09/2026-16:09:17.832869  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37234 -> 45.33.32.156:443
+10/09/2026-16:09:17.945881  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37248 -> 45.33.32.156:443
+10/09/2026-16:09:17.945881  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:37248 -> 45.33.32.156:443
+10/09/2026-16:09:33.398751  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:33358 -> 45.33.32.156:1049
+10/09/2026-16:09:34.698212  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:51400 -> 45.33.32.156:443
+10/09/2026-16:09:34.698212  [**] [1:2013926:11] ET INFO HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:51400 -> 45.33.32.156:443
+10/09/2026-16:09:35.383436  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:52550 -> 45.33.32.156:443
+10/09/2026-16:09:36.357199  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:50288 -> 45.33.32.156:8080
+10/09/2026-16:09:36.357685  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:52420 -> 45.33.32.156:8000
+10/09/2026-16:09:36.357943  [**] [1:2221034:1] SURICATA HTTP Request unrecognized authorization method [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:58794 -> 45.33.32.156:8080
+10/09/2026-16:09:36.357943  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:58794 -> 45.33.32.156:8080
+10/09/2026-16:09:36.358406  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:52580 -> 45.33.32.156:443
+10/09/2026-16:09:36.358406  [**] [1:2013926:11] ET INFO HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:52580 -> 45.33.32.156:443
+10/09/2026-16:09:36.378571  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:52458 -> 45.33.32.156:8000
+10/09/2026-16:09:37.383266  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:50304 -> 45.33.32.156:8080
+10/09/2026-16:09:39.415371  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:58830 -> 45.33.32.156:8080
+10/09/2026-16:09:39.416112  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:58838 -> 45.33.32.156:8080
+10/09/2026-16:09:39.422328  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54522 -> 45.33.32.156:443
+10/09/2026-16:09:40.422049  [**] [1:2013926:11] ET INFO HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:52566 -> 45.33.32.156:443
+10/09/2026-16:09:40.422758  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54542 -> 45.33.32.156:443
+10/09/2026-16:09:40.422758  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:54542 -> 45.33.32.156:443
+10/09/2026-16:09:40.423022  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54470 -> 45.33.32.156:443
+10/09/2026-16:09:40.423022  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:54470 -> 45.33.32.156:443
+10/09/2026-16:09:40.423711  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:52392 -> 45.33.32.156:8000
+10/09/2026-16:09:41.430115  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:52388 -> 45.33.32.156:8000
+10/09/2026-16:09:41.437809  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:59908 -> 45.33.32.156:8000
+10/09/2026-16:09:41.438189  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:59776 -> 45.33.32.156:8000
+10/09/2026-16:09:42.473021  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:59814 -> 45.33.32.156:8000
+10/09/2026-16:09:42.473256  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:59950 -> 45.33.32.156:8000
+10/09/2026-16:09:42.523144  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54460 -> 45.33.32.156:443
+10/09/2026-16:09:42.523144  [**] [1:2013928:7] ET INFO HTTP traffic on port 443 (PROPFIND) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:54460 -> 45.33.32.156:443
+10/09/2026-16:09:42.773259  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54568 -> 45.33.32.156:443
+10/09/2026-16:09:42.773259  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:54568 -> 45.33.32.156:443
+10/09/2026-16:09:43.056681  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:50052 -> 45.33.32.156:443
+10/09/2026-16:09:43.056681  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:50052 -> 45.33.32.156:443
+10/09/2026-16:09:43.417280  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:59854 -> 45.33.32.156:8000
+10/09/2026-16:09:44.422439  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54484 -> 45.33.32.156:443
+10/09/2026-16:09:44.422439  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:54484 -> 45.33.32.156:443
+10/09/2026-16:09:44.444457  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54584 -> 45.33.32.156:443
+10/09/2026-16:09:44.444457  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:54584 -> 45.33.32.156:443
+10/09/2026-16:09:44.444975  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54512 -> 45.33.32.156:443
+10/09/2026-16:09:44.444975  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:54512 -> 45.33.32.156:443
+10/09/2026-16:09:44.445391  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47354 -> 45.33.32.156:8080
+10/09/2026-16:09:44.445658  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:59804 -> 45.33.32.156:8000
+10/09/2026-16:09:45.398195  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:58870 -> 45.33.32.156:8080
+10/09/2026-16:09:45.429203  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:58864 -> 45.33.32.156:8080
+10/09/2026-16:09:45.429826  [**] [1:2100230:4] GPL CHAT Jabber/Google Talk Outgoing Traffic [**] [Classification: Not Suspicious Traffic] [Priority: 3] {TCP} 10.0.0.2:44598 -> 45.33.32.156:5222
+10/09/2026-16:09:45.430005  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:59894 -> 45.33.32.156:8000
+10/09/2026-16:09:45.565248  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:46318 -> 45.33.32.156:8080
+10/09/2026-16:09:46.418158  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:59980 -> 45.33.32.156:8000
+10/09/2026-16:09:46.418457  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:58806 -> 45.33.32.156:8080
+10/09/2026-16:09:46.464536  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:59856 -> 45.33.32.156:8000
+10/09/2026-16:09:46.464882  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55740 -> 45.33.32.156:443
+10/09/2026-16:09:46.464882  [**] [1:2013928:7] ET INFO HTTP traffic on port 443 (PROPFIND) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:55740 -> 45.33.32.156:443
+10/09/2026-16:09:46.465061  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54650 -> 45.33.32.156:443
+10/09/2026-16:09:46.465061  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:54650 -> 45.33.32.156:443
+10/09/2026-16:09:46.465217  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54528 -> 45.33.32.156:443
+10/09/2026-16:09:46.465217  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:54528 -> 45.33.32.156:443
+10/09/2026-16:09:46.465333  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47382 -> 45.33.32.156:8080
+10/09/2026-16:09:46.465485  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:58810 -> 45.33.32.156:8080
+10/09/2026-16:09:47.430876  [**] [1:2002023:18] ET CHAT IRC USER command [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.0.0.2:55882 -> 45.33.32.156:6666
+10/09/2026-16:09:47.430876  [**] [1:2002024:21] ET CHAT IRC NICK command [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.0.0.2:55882 -> 45.33.32.156:6666
+10/09/2026-16:09:47.475323  [**] [1:2100230:4] GPL CHAT Jabber/Google Talk Outgoing Traffic [**] [Classification: Not Suspicious Traffic] [Priority: 3] {TCP} 10.0.0.2:44564 -> 45.33.32.156:5222
+10/09/2026-16:09:48.378184  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:58888 -> 45.33.32.156:8080
+10/09/2026-16:09:48.378971  [**] [1:2013927:7] ET INFO HTTP traffic on port 443 (HEAD) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:55710 -> 45.33.32.156:443
+10/09/2026-16:09:48.417257  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:60020 -> 45.33.32.156:8000
+10/09/2026-16:09:49.276895  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/09/2026-16:09:49.441842  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:58902 -> 45.33.32.156:8080
+10/09/2026-16:09:50.453764  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:59984 -> 45.33.32.156:8000
+10/09/2026-16:09:50.454197  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55800 -> 45.33.32.156:443
+10/09/2026-16:09:51.426609  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54612 -> 45.33.32.156:443
+10/09/2026-16:09:51.426609  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:54612 -> 45.33.32.156:443
+10/09/2026-16:09:51.427213  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:53350 -> 45.33.32.156:8000
+10/09/2026-16:09:51.428262  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:53352 -> 45.33.32.156:8000
+10/09/2026-16:09:51.462067  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:53404 -> 45.33.32.156:8000
+10/09/2026-16:09:52.433792  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:53442 -> 45.33.32.156:8000
+10/09/2026-16:09:52.685734  [**] [1:2036252:1] ET SCAN RDP Connection Attempt from Nmap [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 10.0.0.2:57304 -> 45.33.32.156:3389
+10/09/2026-16:09:53.378544  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:53430 -> 45.33.32.156:8000
+10/09/2026-16:09:53.394293  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55890 -> 45.33.32.156:443
+10/09/2026-16:09:53.394293  [**] [1:2013928:7] ET INFO HTTP traffic on port 443 (PROPFIND) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:55890 -> 45.33.32.156:443
+10/09/2026-16:09:53.910607  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:39732 -> 45.33.32.156:8080
+10/09/2026-16:09:54.385945  [**] [1:2100230:4] GPL CHAT Jabber/Google Talk Outgoing Traffic [**] [Classification: Not Suspicious Traffic] [Priority: 3] {TCP} 10.0.0.2:44582 -> 45.33.32.156:5222
+10/09/2026-16:09:54.388559  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47400 -> 45.33.32.156:8080
+10/09/2026-16:09:54.389403  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47548 -> 45.33.32.156:8080
+10/09/2026-16:09:54.389682  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55760 -> 45.33.32.156:443
+10/09/2026-16:09:55.404079  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:53368 -> 45.33.32.156:8000
+10/09/2026-16:09:55.412500  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:51018 -> 45.33.32.156:8080
+10/09/2026-16:09:56.397817  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:53470 -> 45.33.32.156:8000
+10/09/2026-16:09:56.462949  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:53388 -> 45.33.32.156:8000
+10/09/2026-16:09:57.473473  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:51092 -> 45.33.32.156:8080
+10/09/2026-16:09:57.518052  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:51046 -> 45.33.32.156:8080
+10/09/2026-16:09:57.518710  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47448 -> 45.33.32.156:8080
+10/09/2026-16:09:57.519248  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55850 -> 45.33.32.156:443
+10/09/2026-16:09:57.519248  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:55850 -> 45.33.32.156:443
+10/09/2026-16:09:57.943203  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:42030 -> 45.33.32.156:80
+10/09/2026-16:09:58.369465  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:51132 -> 45.33.32.156:8080
+10/09/2026-16:09:59.474026  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55878 -> 45.33.32.156:443
+10/09/2026-16:09:59.568994  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47468 -> 45.33.32.156:8080
+10/09/2026-16:09:59.617397  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47498 -> 45.33.32.156:8080
+10/09/2026-16:09:59.677499  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:51140 -> 45.33.32.156:8080
+10/09/2026-16:09:59.838240  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:51062 -> 45.33.32.156:8080
+10/09/2026-16:10:00.570166  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:50014 -> 45.33.32.156:443
+10/09/2026-16:10:00.571446  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:51166 -> 45.33.32.156:8080
+10/09/2026-16:10:00.572506  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55862 -> 45.33.32.156:443
+10/09/2026-16:10:00.730227  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:40076 -> 45.33.32.156:1050
+10/09/2026-16:10:00.730396  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55808 -> 45.33.32.156:443
+10/09/2026-16:10:01.422401  [**] [1:2221034:1] SURICATA HTTP Request unrecognized authorization method [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:53484 -> 45.33.32.156:8000
+10/09/2026-16:10:01.422401  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:53484 -> 45.33.32.156:8000
+10/09/2026-16:10:01.423076  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55544 -> 45.33.32.156:8000
+10/09/2026-16:10:01.423853  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47524 -> 45.33.32.156:8080
+10/09/2026-16:10:01.424394  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55840 -> 45.33.32.156:443
+10/09/2026-16:10:02.663906  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:51036 -> 45.33.32.156:8080
+10/09/2026-16:10:03.461822  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55490 -> 45.33.32.156:8000
+10/09/2026-16:10:03.462347  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:51116 -> 45.33.32.156:8080
+10/09/2026-16:10:03.462737  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:51174 -> 45.33.32.156:8080
+10/09/2026-16:10:06.481063  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:51978 -> 45.33.32.156:445
+10/09/2026-16:10:12.555757  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:40130 -> 45.33.32.156:445
+10/09/2026-16:10:25.435353  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:39134 -> 45.33.32.156:443
+10/09/2026-16:10:27.468394  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:45330 -> 45.33.32.156:8000
+10/09/2026-16:10:29.384012  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:45346 -> 45.33.32.156:8000
+10/09/2026-16:14:49.278383  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/09/2026-16:16:08.755293  [**] [1:2220006:1] SURICATA SMTP no server welcome message [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 45.33.32.156:25 -> 10.0.0.2:50078
+10/09/2026-16:17:07.303127  [**] [1:2034718:4] ET INFO RMI Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:44294 -> 45.33.32.156:445
+10/09/2026-16:17:15.014993  [**] [1:2034718:4] ET INFO RMI Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:42454 -> 45.33.32.156:25
+10/09/2026-16:17:15.909136  [**] [1:2034718:4] ET INFO RMI Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:38244 -> 45.33.32.156:9200
+10/09/2026-16:17:23.183589  [**] [1:2013409:5] ET INFO Outbound MSSQL Connection to Non-Standard Port - Likely Malware [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:50360 -> 45.33.32.156:445
+10/09/2026-16:17:28.186026  [**] [1:2013409:5] ET INFO Outbound MSSQL Connection to Non-Standard Port - Likely Malware [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:50360 -> 45.33.32.156:445
+10/09/2026-16:17:30.969804  [**] [1:2013409:5] ET INFO Outbound MSSQL Connection to Non-Standard Port - Likely Malware [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:47242 -> 45.33.32.156:25
+10/09/2026-16:17:31.813515  [**] [1:2013409:5] ET INFO Outbound MSSQL Connection to Non-Standard Port - Likely Malware [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:34706 -> 45.33.32.156:9200
+10/09/2026-16:17:33.839015  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:52244 -> 45.33.32.156:445
+10/09/2026-16:17:35.970738  [**] [1:2013409:5] ET INFO Outbound MSSQL Connection to Non-Standard Port - Likely Malware [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:47242 -> 45.33.32.156:25
+10/09/2026-16:17:36.814430  [**] [1:2013409:5] ET INFO Outbound MSSQL Connection to Non-Standard Port - Likely Malware [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:34706 -> 45.33.32.156:9200
+10/09/2026-16:17:38.840555  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:52244 -> 45.33.32.156:445
+10/09/2026-16:17:41.627594  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:40542 -> 45.33.32.156:25
+10/09/2026-16:17:42.341188  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:53342 -> 45.33.32.156:9200
+10/09/2026-16:17:46.631781  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:40542 -> 45.33.32.156:25
+10/09/2026-16:17:47.343853  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:53342 -> 45.33.32.156:9200
+10/09/2026-16:17:47.849118  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 10.0.0.2:62432 -> 45.33.32.156:22
+10/09/2026-16:17:48.199807  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:17:48.879916  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:17:49.561040  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:17:50.241380  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:17:52.196202  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 10.0.0.2:62686 -> 45.33.32.156:22
+10/09/2026-16:17:52.756762  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:17:53.414222  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:17:54.071416  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:17:54.729852  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 10.0.0.2:8 -> 45.33.32.156:9
+10/09/2026-16:17:55.599739  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 10.0.0.2:57956 -> 45.33.32.156:22
+10/09/2026-16:17:58.680065  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 10.0.0.2:57966 -> 45.33.32.156:22
+10/09/2026-16:18:03.537016  [**] [1:2003068:7] ET SCAN Potential SSH Scan OUTBOUND [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 10.0.0.2:59526 -> 45.33.32.156:22
+10/09/2026-16:18:10.561921  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:45294 -> 45.33.32.156:80
+10/09/2026-16:18:10.561828  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:45300 -> 45.33.32.156:80
+10/09/2026-16:18:10.568192  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:45298 -> 45.33.32.156:80
+10/09/2026-16:18:10.659908  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:45314 -> 45.33.32.156:80
+10/09/2026-16:18:14.794448  [**] [1:2221034:1] SURICATA HTTP Request unrecognized authorization method [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:35752 -> 45.33.32.156:80
+10/09/2026-16:18:14.794448  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:35752 -> 45.33.32.156:80
+10/09/2026-16:18:15.957243  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:35764 -> 45.33.32.156:80
+10/09/2026-16:18:19.904120  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:35792 -> 45.33.32.156:80
+10/09/2026-16:18:20.126045  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:45880 -> 45.33.32.156:1050
+10/09/2026-16:18:22.696771  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:35816 -> 45.33.32.156:80
+10/09/2026-16:18:23.821806  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:35830 -> 45.33.32.156:80
+10/09/2026-16:18:23.821642  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:35826 -> 45.33.32.156:80
+10/09/2026-16:18:27.662098  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56980 -> 45.33.32.156:80
+10/09/2026-16:18:28.280516  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56990 -> 45.33.32.156:80
+10/09/2026-16:18:29.645272  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57006 -> 45.33.32.156:80
+10/09/2026-16:18:30.797275  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57020 -> 45.33.32.156:80
+10/09/2026-16:18:36.173889  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:51538 -> 45.33.32.156:445
+10/09/2026-16:18:37.770453  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:44180 -> 45.33.32.156:8080
+10/09/2026-16:18:37.823341  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:44196 -> 45.33.32.156:8080
+10/09/2026-16:18:38.148270  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57024 -> 45.33.32.156:80
+10/09/2026-16:18:38.571847  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:51546 -> 45.33.32.156:445
+10/09/2026-16:18:39.783901  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:51554 -> 45.33.32.156:445
+10/09/2026-16:18:43.592938  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:34566 -> 45.33.32.156:80
+10/09/2026-16:18:46.210589  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:34578 -> 45.33.32.156:80
+10/09/2026-16:18:46.371885  [**] [1:2013926:11] ET INFO HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:38280 -> 45.33.32.156:443
+10/09/2026-16:18:46.477064  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:34580 -> 45.33.32.156:80
+10/09/2026-16:18:51.222678  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:46198 -> 45.33.32.156:445
+10/09/2026-16:18:51.980542  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55656 -> 45.33.32.156:80
+10/09/2026-16:18:52.102527  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55686 -> 45.33.32.156:80
+10/09/2026-16:18:52.496482  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:55700 -> 45.33.32.156:80
+10/09/2026-16:18:52.524804  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55694 -> 45.33.32.156:80
+10/09/2026-16:18:52.699046  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55708 -> 45.33.32.156:80
+10/09/2026-16:18:53.077639  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:55720 -> 45.33.32.156:80
+10/09/2026-16:18:53.077639  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55720 -> 45.33.32.156:80
+10/09/2026-16:18:53.241636  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55728 -> 45.33.32.156:80
+10/09/2026-16:18:53.784200  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:33034 -> 45.33.32.156:80
+10/09/2026-16:18:54.333404  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:33038 -> 45.33.32.156:80
+10/09/2026-16:19:02.726747  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:52034 -> 45.33.32.156:445
+10/09/2026-16:19:05.044528  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37398 -> 45.33.32.156:8080
+10/09/2026-16:19:05.306958  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:40862 -> 45.33.32.156:631
+10/09/2026-16:19:06.374354  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54796 -> 45.33.32.156:443
+10/09/2026-16:19:06.376181  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54788 -> 45.33.32.156:443
+10/09/2026-16:19:06.805677  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:40122 -> 45.33.32.156:443
+10/09/2026-16:19:06.812685  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47422 -> 45.33.32.156:8080
+10/09/2026-16:19:07.790227  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57010 -> 45.33.32.156:443
+10/09/2026-16:19:07.811027  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:40114 -> 45.33.32.156:443
+10/09/2026-16:19:07.811027  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:40114 -> 45.33.32.156:443
+10/09/2026-16:19:08.803810  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47506 -> 45.33.32.156:8080
+10/09/2026-16:19:08.820663  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56992 -> 45.33.32.156:443
+10/09/2026-16:19:08.820663  [**] [1:2013926:11] ET INFO HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:56992 -> 45.33.32.156:443
+10/09/2026-16:19:10.827757  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47578 -> 45.33.32.156:8080
+10/09/2026-16:19:10.842895  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57102 -> 45.33.32.156:443
+10/09/2026-16:19:10.842895  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:57102 -> 45.33.32.156:443
+10/09/2026-16:19:12.850625  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47528 -> 45.33.32.156:8080
+10/09/2026-16:19:12.866438  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47444 -> 45.33.32.156:8080
+10/09/2026-16:19:13.480067  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:53636 -> 45.33.32.156:8080
+10/09/2026-16:19:13.787600  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57070 -> 45.33.32.156:443
+10/09/2026-16:19:13.787600  [**] [1:2013928:7] ET INFO HTTP traffic on port 443 (PROPFIND) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:57070 -> 45.33.32.156:443
+10/09/2026-16:19:13.792592  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56998 -> 45.33.32.156:443
+10/09/2026-16:19:13.793155  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57036 -> 45.33.32.156:443
+10/09/2026-16:19:13.793155  [**] [1:2013927:7] ET INFO HTTP traffic on port 443 (HEAD) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:57036 -> 45.33.32.156:443
+10/09/2026-16:19:13.793314  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55900 -> 45.33.32.156:631
+10/09/2026-16:19:13.793450  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47428 -> 45.33.32.156:8080
+10/09/2026-16:19:13.799632  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:39780 -> 45.33.32.156:631
+10/09/2026-16:19:14.791103  [**] [1:2013927:7] ET INFO HTTP traffic on port 443 (HEAD) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:60156 -> 45.33.32.156:443
+10/09/2026-16:19:15.857289  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47606 -> 45.33.32.156:8080
+10/09/2026-16:19:15.858845  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:36356 -> 45.33.32.156:631
+10/09/2026-16:19:15.859332  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:47540 -> 45.33.32.156:8080
+10/09/2026-16:19:15.860839  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57132 -> 45.33.32.156:443
+10/09/2026-16:19:15.860839  [**] [1:2013926:11] ET INFO HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:57132 -> 45.33.32.156:443
+10/09/2026-16:19:15.863553  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57072 -> 45.33.32.156:443
+10/09/2026-16:19:15.863553  [**] [1:2013926:11] ET INFO HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:57072 -> 45.33.32.156:443
+10/09/2026-16:19:16.784154  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:36342 -> 45.33.32.156:631
+10/09/2026-16:19:16.784373  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:36350 -> 45.33.32.156:631
+10/09/2026-16:19:16.849303  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:36320 -> 45.33.32.156:631
+10/09/2026-16:19:16.850860  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57154 -> 45.33.32.156:443
+10/09/2026-16:19:16.850860  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:57154 -> 45.33.32.156:443
+10/09/2026-16:19:17.790367  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55944 -> 45.33.32.156:631
+10/09/2026-16:19:17.791163  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55896 -> 45.33.32.156:631
+10/09/2026-16:19:17.863646  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57014 -> 45.33.32.156:8080
+10/09/2026-16:19:18.874345  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56024 -> 45.33.32.156:631
+10/09/2026-16:19:18.874766  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:36436 -> 45.33.32.156:631
+10/09/2026-16:19:19.809354  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:43238 -> 45.33.32.156:443
+10/09/2026-16:19:19.809354  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:43238 -> 45.33.32.156:443
+10/09/2026-16:19:19.809942  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:43182 -> 45.33.32.156:443
+10/09/2026-16:19:19.809942  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:43182 -> 45.33.32.156:443
+10/09/2026-16:19:19.810508  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57002 -> 45.33.32.156:8080
+10/09/2026-16:19:20.804713  [**] [1:2034730:1] ET INFO GIOP/IIOP Request Outbound [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.2:45880 -> 45.33.32.156:1050
+10/09/2026-16:19:20.804965  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:55908 -> 45.33.32.156:631
+10/09/2026-16:19:20.822072  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57036 -> 45.33.32.156:8080
+10/09/2026-16:19:21.784040  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:43246 -> 45.33.32.156:443
+10/09/2026-16:19:21.784040  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:43246 -> 45.33.32.156:443
+10/09/2026-16:19:21.893852  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:43554 -> 45.33.32.156:8080
+10/09/2026-16:19:22.203548  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:44540 -> 45.33.32.156:631
+10/09/2026-16:19:22.862695  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:56000 -> 45.33.32.156:631
+10/09/2026-16:19:23.265476  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:35414 -> 45.33.32.156:443
+10/09/2026-16:19:23.904343  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:43218 -> 45.33.32.156:443
+10/09/2026-16:19:23.904343  [**] [1:2013928:7] ET INFO HTTP traffic on port 443 (PROPFIND) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:43218 -> 45.33.32.156:443
+10/09/2026-16:19:24.820794  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:36578 -> 45.33.32.156:631
+10/09/2026-16:19:24.948611  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:36532 -> 45.33.32.156:631
+10/09/2026-16:19:25.811441  [**] [1:2221034:1] SURICATA HTTP Request unrecognized authorization method [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:36502 -> 45.33.32.156:631
+10/09/2026-16:19:25.811441  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:36502 -> 45.33.32.156:631
+10/09/2026-16:19:25.818555  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:36492 -> 45.33.32.156:631
+10/09/2026-16:19:25.820461  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:36434 -> 45.33.32.156:631
+10/09/2026-16:19:25.844570  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:36558 -> 45.33.32.156:631
+10/09/2026-16:19:26.831844  [**] [1:2221034:1] SURICATA HTTP Request unrecognized authorization method [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:42946 -> 45.33.32.156:443
+10/09/2026-16:19:26.831844  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:42946 -> 45.33.32.156:443
+10/09/2026-16:19:26.832406  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:43222 -> 45.33.32.156:443
+10/09/2026-16:19:26.832406  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:43222 -> 45.33.32.156:443
+10/09/2026-16:19:26.832868  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:36552 -> 45.33.32.156:631
+10/09/2026-16:19:28.891638  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57080 -> 45.33.32.156:8080
+10/09/2026-16:19:28.897165  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:43262 -> 45.33.32.156:443
+10/09/2026-16:19:29.819354  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57050 -> 45.33.32.156:8080
+10/09/2026-16:19:29.819659  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:42974 -> 45.33.32.156:443
+10/09/2026-16:19:29.820141  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:43258 -> 45.33.32.156:443
+10/09/2026-16:19:29.820141  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:43258 -> 45.33.32.156:443
+10/09/2026-16:19:29.820439  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57084 -> 45.33.32.156:8080
+10/09/2026-16:19:29.856917  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:50352 -> 45.33.32.156:631
+10/09/2026-16:19:30.836288  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:42992 -> 45.33.32.156:443
+10/09/2026-16:19:30.836288  [**] [1:2013928:7] ET INFO HTTP traffic on port 443 (PROPFIND) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:42992 -> 45.33.32.156:443
+10/09/2026-16:19:31.847127  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:44116 -> 45.33.32.156:8080
+10/09/2026-16:19:31.854860  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:44092 -> 45.33.32.156:8080
+10/09/2026-16:19:31.855748  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:42940 -> 45.33.32.156:443
+10/09/2026-16:19:32.865426  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:57112 -> 45.33.32.156:8080
+10/09/2026-16:19:32.865788  [**] [1:2036252:1] ET SCAN RDP Connection Attempt from Nmap [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 10.0.0.2:35202 -> 45.33.32.156:3389
+10/09/2026-16:19:32.882503  [**] [1:2002023:18] ET CHAT IRC USER command [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.0.0.2:35660 -> 45.33.32.156:6668
+10/09/2026-16:19:32.882503  [**] [1:2002024:21] ET CHAT IRC NICK command [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.0.0.2:35660 -> 45.33.32.156:6668
+10/09/2026-16:19:33.810423  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37056 -> 45.33.32.156:8899
+10/09/2026-16:19:35.807811  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:50358 -> 45.33.32.156:631
+10/09/2026-16:19:35.852300  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:44132 -> 45.33.32.156:8080
+10/09/2026-16:19:37.805971  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:42984 -> 45.33.32.156:443
+10/09/2026-16:19:37.805971  [**] [1:2013929:8] ET INFO HTTP traffic on port 443 (OPTIONS) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.2:42984 -> 45.33.32.156:443
+10/09/2026-16:19:49.280120  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
+10/09/2026-16:19:52.860867  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37124 -> 45.33.32.156:631
+10/09/2026-16:19:54.805850  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:35542 -> 45.33.32.156:8080
+10/09/2026-16:19:56.578926  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54700 -> 45.33.32.156:443
+10/09/2026-16:19:56.789971  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54714 -> 45.33.32.156:443
+10/09/2026-16:19:56.828833  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37142 -> 45.33.32.156:631
+10/09/2026-16:19:58.194913  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37258 -> 45.33.32.156:8080
+10/09/2026-16:19:58.815122  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37366 -> 45.33.32.156:8080
+10/09/2026-16:19:58.815634  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37338 -> 45.33.32.156:8080
+10/09/2026-16:19:59.822557  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:40798 -> 45.33.32.156:631
+10/09/2026-16:19:59.822966  [**] [1:2221034:1] SURICATA HTTP Request unrecognized authorization method [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.2:37302 -> 45.33.32.156:8080
+10/09/2026-16:19:59.822966  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37302 -> 45.33.32.156:8080
+10/09/2026-16:20:00.832940  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:40834 -> 45.33.32.156:631
+10/09/2026-16:20:00.879015  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:35550 -> 45.33.32.156:8080
+10/09/2026-16:20:01.786953  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:36788 -> 45.33.32.156:443
+10/09/2026-16:20:01.788127  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37294 -> 45.33.32.156:8080
+10/09/2026-16:20:02.799424  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:40816 -> 45.33.32.156:631
+10/09/2026-16:20:02.799969  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:40822 -> 45.33.32.156:631
+10/09/2026-16:20:02.850766  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37140 -> 45.33.32.156:631
+10/09/2026-16:20:03.860630  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37278 -> 45.33.32.156:8080
+10/09/2026-16:20:03.860945  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54756 -> 45.33.32.156:443
+10/09/2026-16:20:03.861330  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:54742 -> 45.33.32.156:443
+10/09/2026-16:20:05.785812  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:37342 -> 45.33.32.156:8080
+10/09/2026-16:20:27.822303  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:43568 -> 45.33.32.156:8080
+10/09/2026-16:20:33.781456  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 10.0.0.2:60234 -> 45.33.32.156:631
+10/09/2026-16:24:49.280613  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.0.2.15:68 -> 10.0.2.2:67
